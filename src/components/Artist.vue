@@ -13,6 +13,11 @@ export default {
 
 <style scoped lang="stylus">
   li.artist
-    display block
-    margin 10px 0
+    display inline-block
+    padding 5px
+    margin 10px
+    border 2px solid #41B883
+    border-radius 5px
+  img
+    border-radius 5px
 </style>
